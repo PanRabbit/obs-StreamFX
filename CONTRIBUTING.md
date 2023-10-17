@@ -292,3 +292,4 @@ We use Crowdin to handle translations into many languages, and you can join the 
 - A no bullshit guide to `git`: https://rogerdudler.github.io/git-guide/
     - Remember, `git` has help pages for all commands - run `git <command> --help`.
 	- ... or use visual clients, like TortoiseGit, Github Desktop, SourceTree, and similar. It's what I do.
+ - 
